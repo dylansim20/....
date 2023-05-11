@@ -25,7 +25,7 @@ white = Fore.LIGHTWHITE_EX
 reset = Fore.RESET
 blue2 = Fore.LIGHTBLUE_EX
 
-url = "Idk"
+url = "YOUR_WEBHOOK_URL"
 
 
 t = datetime.now()
@@ -112,7 +112,7 @@ d = datetime.now()
 
 
 
-url = ""
+
 send = f"""
 Date : {d}
 User : {user}
